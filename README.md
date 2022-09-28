@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/dong"><img src="https://api.daily.dev/devcards/7f69935099884ea3a8206fa8ca0adee4.png?r=qan" width="400" alt="Nguyễn Lương Đông's Dev Card"/></a>
+
 <!--
 **luongdong059/luongdong059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
